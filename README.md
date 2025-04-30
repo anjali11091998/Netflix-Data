@@ -38,7 +38,7 @@ Julie Tejwani, Naseeruddin Shah, Takahiro Sakurai, Rupa Bhimani — 30+ each
 **Dominance of Indian actors highlights a strong presence of Indian content on Netflix.**
 
 
-![]()
+![](https://github.com/anjali11091998/Netflix-Data/blob/main/Screenshot%202025-04-30%20135534.png)
 
 Movies vs TV Shows: Movies dominate Netflix's library with over twice as many entries as TV shows.
 
