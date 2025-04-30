@@ -10,7 +10,7 @@
 ## Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL and Excel. The goal is to extract valuable insights and answer various business questions based on the dataset. To find the project's objectives, business problems, solutions, findings, and conclusions.
 
-## Objective
+### Objective
 - Analyze the Content Releases Over the Years (2012–2021)
 
 - List and analyze content based on release years, countries, and durations.
@@ -19,7 +19,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 - Most Featured Actors
 
-**Key Findings**
+#### Key Findings
 
 
 
