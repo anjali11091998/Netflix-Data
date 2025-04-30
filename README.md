@@ -1,6 +1,8 @@
 # Netflix Movies And Shows Data Analysis With SQL And Excel
 
 
+![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+
 Content Releases Over the Years (2012–2021)
 Sharp rise in content starting from 2015, peaking in 2018–2019.
 
