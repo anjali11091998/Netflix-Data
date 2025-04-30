@@ -19,6 +19,12 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 - Most Featured Actors
 
+  ### DataSet
+
+  The data for this project is sourced from the Kaggle dataset:
+
+Dataset Link: Movies Dataset
+
 #### #Key Findings
 
 
