@@ -19,7 +19,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 - Most Featured Actors
 
-###Key Findings
+#**Key Findings**
 
 
 
